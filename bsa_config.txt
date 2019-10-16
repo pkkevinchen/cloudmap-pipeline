@@ -1,0 +1,12 @@
+ngs_file_dicectory   /data02/kchen/bulk_segregant_analysis/testing/
+analysis_result_directory	/data02/kchen/bulk_segregant_analysis/testing/
+ref_genome_file /home/kchen/WangLab/refGenome/WS250/cloudmap/c_elegans.PRJNA13758.WS250.genomic.fa
+fastqc  /usr/local/bin/FastQC/fastqc
+prinseq	/home/kchen//bin/prinseq-lite-0.20.4/prinseq-lite.pl
+bwa /usr/local/bin/bwa-0.7.13/bwa
+samtools    /usr/local/bin/samtools-1.3/samtools
+java    /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+gatk_jar    /usr/local/bin/GenomeAnalysisTK-3.5/GenomeAnalysisTK.jar
+picard_jar  /home/kchen/bin/picard-tools-1.141/picard.jar
+snpeff_jar  /home/kchen/bin/snpEff-4.2/snpEff.jar
+vdm_mapping /data02/kchen/bulk_segregant_analysis/scripts/VDM_Mapping.py
